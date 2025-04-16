@@ -1,0 +1,14 @@
+{
+  "name": "codex-cli-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Donovan Preston",
+  "license": "MIT",
+  "dependencies": {
+    "@openai/codex": "^1.0.0"
+  }
+}
