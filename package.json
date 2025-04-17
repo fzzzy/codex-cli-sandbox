@@ -9,6 +9,6 @@
   "author": "Donovan Preston",
   "license": "MIT",
   "dependencies": {
-    "@openai/codex": "^1.0.0"
+    "@openai/codex": "^0.1.2504161551"
   }
 }
